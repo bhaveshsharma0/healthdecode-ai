@@ -1,0 +1,6 @@
+{
+  "name": "DoctorFinder",
+  "description": "Know your medical specialist and decode lab reports. Describe symptoms to match qualifications, and translate biochemical values into clean layman terms 100% locally and privately.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
